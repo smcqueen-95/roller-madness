@@ -14,7 +14,7 @@ Software Developer and aspiring Game Developer
 
 ![Certification](./public/img/game-dev.png)
 # Project 
-![Video](./public/img/box-shooter.gif)
+![Video](./public/img/roller-madness.gif)
 
 ## Experience with Project
 - This was my 2nd project while doing the course and i've been loving it
